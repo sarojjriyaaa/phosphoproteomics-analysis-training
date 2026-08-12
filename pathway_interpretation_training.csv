@@ -1,0 +1,6 @@
+Pathway,Significant_Sites,Sites
+PI3K-AKT signaling,3,AKT1_S473; AKT1_T308; GSK3B_S9
+MAPK signaling,3,JUN_S63; MAPK1_T185; MAPK1_Y187
+JAK-STAT signaling,1,STAT3_Y705
+DNA damage/cell cycle,1,TP53_S15
+Autophagy/mTOR,2,MTOR_S2448; ULK1_S757

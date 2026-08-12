@@ -1,0 +1,9 @@
+PROJECT 2 QUICK START
+1. Open Input_Data/phosphosite_matrix_training.csv in Excel.
+2. Inspect Statistics/sample_QC_metrics.csv.
+3. Inspect Figures/sample_QC.png.
+4. Inspect Statistics/differential_phosphosites.csv.
+5. Inspect Figures/phosphosite_volcano.png.
+6. Inspect Pathway_Interpretation/pathway_interpretation_training.csv.
+7. Read Interview_Resume/INTERVIEW_AND_RESUME.txt.
+8. Run python run_analysis.py to reproduce the analysis.
